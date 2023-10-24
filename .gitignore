@@ -13,7 +13,6 @@ lib/
 
 # Jupyter Notebook checkpoints and outputs
 .ipynb_checkpoints/
-*.ipynb
 *.html
 
 # macOS system files
